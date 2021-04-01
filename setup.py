@@ -11,7 +11,7 @@ setup(
   url = 'https://github.com/GHGDev-11/ANQR',
   download_url = 'https://github.com/GHGDev-11/ANQR/archive/refs/tags/0.1.0.zip',
   keywords = ["qr code", "scanning", "pillow", "pil", "image"],
-  install_requires=['pillow']
+  install_requires=['pillow'],
   classifiers=[
     'Development Status :: 3 - Alpha',
     'Intended Audience :: Developers',
