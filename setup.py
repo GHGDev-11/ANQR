@@ -9,7 +9,7 @@ setup(
   author = 'Georges Abdulahad',
   author_email = 'ghg.abdulahad@gmail.com',
   url = 'https://github.com/GHGDev-11/ANQR',
-  download_url = 'https://github.com/GHGDev-11/ANQR/archive/refs/tags/0.1.0.zip',
+  download_url = 'https://github.com/GHGDev-11/ANQR/archive/refs/tags/0.1.1.tar.gz',
   keywords = ["qr code", "scanning", "pillow", "pil", "image"],
   install_requires=['pillow'],
   classifiers=[
