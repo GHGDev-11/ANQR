@@ -1,8 +1,6 @@
 # ANQR
 ## _ANQR, A New Quick Response: A new type of qr code, with unlimited space._
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
 ANQR is a library that turns any string into a png file, 
 No matter how big the string is!
 
