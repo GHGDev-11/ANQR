@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
   name = 'anqr',
   packages = ['anqr'],
-  version = '0.1.0',
+  version = '0.1.1',
   license='MIT',
   description = "ANQR, A New Quick Response: A new type of qr code, with unlimited space.",
   author = 'Georges Abdulahad',
